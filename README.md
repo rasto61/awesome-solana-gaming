@@ -62,6 +62,7 @@ Table of Contents
 - [NINJA PROTOCOL| Shadow of Vengeance](https://ninjaprotocol.io/)
 - [Krida Fans | Fantasy Sports](https://krida.fans)
 - [Sol Survivor](https://sol-talk.com/sol-survivor.io/)
+- [Plush Fight League](https://plushfightleague.com/)
 
 
 ### NFT Projects
